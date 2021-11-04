@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/netcoreapp1.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/ca1ce1cb-f284-4b6f-91e5-4edd08fcc46c/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/benjieAspWebAppFirst"
+}
